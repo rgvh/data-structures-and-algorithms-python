@@ -1,5 +1,4 @@
 def insert_shift_array(arr, val):
-  # insert_inx = ceil.midpoint
   midpoint = len(arr)/2 
   if midpoint%2 == 0:
     insert_idx = int(midpoint)
