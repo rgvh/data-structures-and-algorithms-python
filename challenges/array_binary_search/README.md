@@ -8,7 +8,7 @@ Find the middle index of the list, then check if the key matches the value at th
 Efficiency: O() - Since a loop is used, the efficieny of the function follows a linear path as inputs increase.
 
 Solution
-![solution code]https://github.com/rgvh/data-structures-and-algorithms-python/blob/array_reverse/assets/array_shift.jpg
+![solution code]https://github.com/rgvh/data-structures-and-algorithms-python/blob/array_reverse/assets/array_shi.jpg
 
 Checklist
 - [x] Top-level README “Table of Contents” is updated
