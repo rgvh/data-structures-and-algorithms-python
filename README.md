@@ -9,3 +9,6 @@
 ## Challenge 02 - Array Shift
 [Array Shift](./array_shift/README.md)
 
+## Challenge 03 - Array Binary Shift
+[Array Binary Shift](.array_shift/README.md)
+
